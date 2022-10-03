@@ -1,5 +1,5 @@
 # EEConf Phily 2022 Files
-Project files for my EEConf talk [ExpressionEngine, Artificial Intelligence, and Matchmaking; a Workshop[(https://www.eeconf.com/events/eeconf-2022-fall-summit). While it's not required that everything's up and working, we will be reviewing some of the files here in details during the talk. It's advised to clone this repo or, at the least, use GitHub to follow along. 
+Project files for my EEConf talk [ExpressionEngine, Artificial Intelligence, and Matchmaking; a Workshop](https://www.eeconf.com/events/eeconf-2022-fall-summit). While it's not required that everything's up and working, we will be reviewing some of the files here in details during the talk. It's advised to clone this repo or, at the least, use GitHub to follow along. 
 
 ## Requirements
 
