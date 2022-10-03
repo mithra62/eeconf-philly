@@ -9,9 +9,16 @@ It's also highly recommended (though not at all required) to use a Python Virtua
 
 ## Installation
 
-Assuming you have Python 3 installed, just run
+Assuming you have Python 3 installed, just run the below within the `predict` directory
 ```cmd
 pip install -r requirements.txt
 ```
 
 Note that there are NO included datasets with this repo outside of what's included with the dependancies.
+
+## Notes
+
+1. Remain calm; it's not scary
+2. Python is a really fun programming language
+3. PHP machine learning is a long way off 
+4. You're gonna do great :)
