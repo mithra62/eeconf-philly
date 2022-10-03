@@ -3,8 +3,7 @@ Project files for my EEConf talk [ExpressionEngine, Artificial Intelligence, and
 
 ## Requirements
 
-There's some Python work in here, which require Python 3.6 at the least. This is installed on most systems by default though most of the included code is using the Anaconda distrobution
-https://www.anaconda.com/products/distribution
+There's some Python work in here, which require Python 3.6 at the least. This is installed on most systems by default though most of the included code is using the [Anaconda](https://www.anaconda.com/products/distribution) distrobution
 
 It's also highly recommended (though not at all required) to use a Python Virtual Environment. 
 
