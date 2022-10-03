@@ -1,0 +1,12 @@
+[Unit]
+Description=Twitter Content Prediction Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/path/to/your/working/directory
+ExecStart=/path/to/your/working/directory/env/bin/python3 /path/to/your/working/directory/predict/tweet_classify.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

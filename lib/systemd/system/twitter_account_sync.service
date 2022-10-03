@@ -1,0 +1,12 @@
+[Unit]
+Description=Twitter Account Sync Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/path/to/your/working/directory
+ExecStart=/path/to/your/ee/install/eecli.php twitter:account:sync -s -t 1
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
