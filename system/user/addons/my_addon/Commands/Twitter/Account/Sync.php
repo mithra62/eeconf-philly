@@ -50,7 +50,6 @@ class Sync extends Cli
      */
     public function handle()
     {
-        $controller = new \Controller();
         if ($this->option('-s', false)) {
             $this->handleAsService();
         } else {
